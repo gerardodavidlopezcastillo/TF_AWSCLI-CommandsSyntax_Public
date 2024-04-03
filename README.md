@@ -1,3 +1,8 @@
+# TF_AWSCLI-CommandsSyntax_Public
+## **Description Details:**
+
+This repository provides a detailed step-by-step guide to installing Terraform CLI and AWS CLI on various operating systems. From installation on macOS to configuring AWS credentials, it includes instructions for Windows and Linux. Additionally, it offers an introduction to basic Terraform commands and how to create, verify, and destroy an EC2 instance.
+
 # Terraform & AWS CLI Installation
 
 ## Step-01: Introduction
